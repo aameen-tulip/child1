@@ -1,0 +1,3 @@
+[submodule "child3"]
+	path = child3
+	url = git@github.com:aameen-tulip/child3.git
